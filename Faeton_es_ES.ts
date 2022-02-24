@@ -5,7 +5,12 @@
     <name>MainWindow</name>
     <message>
         <location filename="mainwindow.ui" line="14"/>
-        <source>MainWindow</source>
+        <source>Faeton</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <location filename="mainwindow.ui" line="28"/>
+        <source>File</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
